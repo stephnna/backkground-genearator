@@ -1,1 +1,2 @@
-# backkground-genearator
+# background-generator
+adskvmdasvm
